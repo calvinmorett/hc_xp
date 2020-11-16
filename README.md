@@ -1,5 +1,4 @@
 # 🍿👻 https://xn--2j8hyp.ml
-# big🧠 
 Parses total xp from hc event logs. 
 
 
@@ -29,3 +28,5 @@ $ py xp.py
 --- Calvin gained: [ 697 EXP ]
 --- There were [ 14 ] lines of EXP counted.
 ```
+
+# big🧠 
