@@ -28,5 +28,4 @@ $ py xp.py
 --- Calvin gained: [ 697 EXP ]
 --- There were [ 14 ] lines of EXP counted.
 ```
-
-# big🧠 
+big🧠 
