@@ -1,3 +1,5 @@
+![](https://github.com/calvinmorett/img/blob/main/hcxp.gif)
+
 # 🍿👻 https://xn--2j8hyp.ml
 Parses total xp from hc event logs. 
 
