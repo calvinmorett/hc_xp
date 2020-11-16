@@ -3,7 +3,7 @@
 # 🍿👻 https://xn--2j8hyp.ml
 Currently: Parses total xp from hc event logs. 
 
-Future: Parses xp visually from hc events and published them in real time, during hc events. 
+Future: Parses xp from hc events and publishes values visually in an online leaderboard system, in real time.
 
 ---
 
