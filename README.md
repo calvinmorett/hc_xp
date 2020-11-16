@@ -1,7 +1,10 @@
 ![](https://github.com/calvinmorett/img/blob/main/hcxp.gif)
 
 # 🍿👻 https://xn--2j8hyp.ml
-Parses total xp from hc event logs. 
+Currently: Parses total xp from hc event logs. 
+Future: Parses xp visually from hc events and published them in real time during events. 
+
+---
 
 Parse from: `Testlog.txt`
 
