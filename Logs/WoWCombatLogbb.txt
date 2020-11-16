@@ -1,0 +1,126 @@
+11/15 19:18:43.385  You fail to cast Fireball: Can't do that while moving.
+11/15 19:18:43.990  You gain Frost Armor.
+11/15 19:18:52.210  Your Fireball hits Ragged Young Wolf for 20 Fire damage.
+11/15 19:18:52.223  Ragged Young Wolf is afflicted by Fireball.
+11/15 19:18:54.016  Ragged Young Wolf suffers 1 Fire damage from your Fireball.
+11/15 19:18:54.379  Your Fireball crits Ragged Young Wolf for 31 Fire damage.
+11/15 19:18:54.379  You have slain Ragged Young Wolf!
+11/15 19:18:54.379  Ragged Young Wolf dies, you gain 60 experience. (+10 exp Rested bonus)
+11/15 19:18:54.379  You fail to cast Fireball: Interrupted.
+11/15 19:18:54.743  You fail to cast Fireball: No target.
+11/15 19:22:01.242  You gain Frost Armor.
+11/15 19:22:08.183  Your Fireball hits Ragged Young Wolf for 19 Fire damage.
+11/15 19:22:08.223  Ragged Young Wolf is afflicted by Fireball.
+11/15 19:22:10.212  Ragged Young Wolf suffers 1 Fire damage from your Fireball.
+11/15 19:22:10.640  Your Fireball hits Ragged Young Wolf for 15 Fire damage.
+11/15 19:22:12.173  Ragged Young Wolf suffers 1 Fire damage from your Fireball.
+11/15 19:22:12.173  Ragged Young Wolf hits you for 2.
+11/15 19:22:12.214  Ragged Young Wolf is afflicted by Chilled.
+11/15 19:22:12.696  You fail to cast Fireball: Interrupted.
+11/15 19:22:12.696  You hit Ragged Young Wolf for 3. (glancing)
+11/15 19:22:14.176  Ragged Young Wolf suffers 1 Fire damage from your Fireball.
+11/15 19:22:14.603  Fireball fades from Ragged Young Wolf.
+11/15 19:22:14.687  Ragged Young Wolf hits you for 2.
+11/15 19:22:15.952  You hit Ragged Young Wolf for 4. (glancing)
+11/15 19:22:15.952  You have slain Ragged Young Wolf!
+11/15 19:22:15.953  Ragged Young Wolf dies, you gain 50 experience.
+11/15 19:22:20.931  Your Fireball hits Ragged Young Wolf for 17 Fire damage.
+11/15 19:22:20.970  Ragged Young Wolf is afflicted by Fireball.
+11/15 19:22:22.986  Your Fireball hits Ragged Young Wolf for 19 Fire damage.
+11/15 19:22:22.986  Ragged Young Wolf suffers 1 Fire damage from your Fireball.
+11/15 19:22:23.240  Ragged Young Wolf hits you for 2.
+11/15 19:22:23.454  Ragged Young Wolf is afflicted by Chilled.
+11/15 19:22:24.855  Ragged Young Wolf suffers 1 Fire damage from your Fireball.
+11/15 19:22:25.788  Ragged Young Wolf hits you for 2.
+11/15 19:22:26.803  Fireball fades from Ragged Young Wolf.
+11/15 19:22:27.270  Your Fireball hits Ragged Young Wolf for 16 Fire damage.
+11/15 19:22:27.270  You have slain Ragged Young Wolf!
+11/15 19:22:27.270  Ragged Young Wolf dies, you gain 50 experience.
+11/15 19:22:34.358  Your Fireball hits Ragged Young Wolf for 17 Fire damage.
+11/15 19:22:34.371  Ragged Young Wolf is afflicted by Fireball.
+11/15 19:22:36.134  You fail to cast Fireball: Not enough mana.
+11/15 19:22:36.228  Your Fireball hits Ragged Young Wolf for 15 Fire damage.
+11/15 19:22:36.293  You fail to cast Fireball: Not enough mana.
+11/15 19:22:36.440  Ragged Young Wolf suffers 1 Fire damage from your Fireball.
+11/15 19:22:36.440  Ragged Young Wolf hits you for 2.
+11/15 19:22:36.453  Ragged Young Wolf is afflicted by Chilled.
+11/15 19:22:38.362  Ragged Young Wolf suffers 1 Fire damage from your Fireball.
+11/15 19:22:39.017  Ragged Young Wolf hits you for 2.
+11/15 19:22:40.324  Ragged Young Wolf suffers 1 Fire damage from your Fireball.
+11/15 19:22:40.378  Fireball fades from Ragged Young Wolf.
+11/15 19:22:41.558  Ragged Young Wolf hits you for 2.
+11/15 19:22:44.062  Ragged Young Wolf hits you for 2.
+11/15 19:22:47.679  You crit Ragged Young Wolf for 12.
+11/15 19:22:47.679  You have slain Ragged Young Wolf!
+11/15 19:22:47.679  Ragged Young Wolf dies, you gain 50 experience.
+11/15 19:23:00.199  Your Fireball hits Ragged Young Wolf for 22 Fire damage.
+11/15 19:23:00.332  Ragged Young Wolf is afflicted by Fireball.
+11/15 19:23:02.041  Your Fireball hits Ragged Young Wolf for 14 Fire damage.
+11/15 19:23:02.255  Ragged Young Wolf suffers 1 Fire damage from your Fireball.
+11/15 19:23:02.603  Ragged Young Wolf hits you for 2.
+11/15 19:23:02.722  Ragged Young Wolf is afflicted by Chilled.
+11/15 19:23:04.177  Ragged Young Wolf suffers 1 Fire damage from your Fireball.
+11/15 19:23:04.405  Your Fireball hits Ragged Young Wolf for 16 Fire damage.
+11/15 19:23:04.405  You have slain Ragged Young Wolf!
+11/15 19:23:04.405  Ragged Young Wolf dies, you gain 50 experience.
+11/15 19:23:18.384  Your Fireball hits Burly Rockjaw Trogg for 17 Fire damage.
+11/15 19:23:18.392  Burly Rockjaw Trogg is afflicted by Fireball.
+11/15 19:23:19.927  Your Fireball hits Burly Rockjaw Trogg for 15 Fire damage.
+11/15 19:23:20.314  Burly Rockjaw Trogg suffers 1 Fire damage from your Fireball.
+11/15 19:23:21.502  Your Fireball hits Burly Rockjaw Trogg for 19 Fire damage.
+11/15 19:23:22.423  Burly Rockjaw Trogg suffers 1 Fire damage from your Fireball.
+11/15 19:23:22.423  You have slain Burly Rockjaw Trogg!
+11/15 19:23:22.423  Burly Rockjaw Trogg dies, you gain 52 experience.
+11/15 19:23:22.423  You fail to cast Fireball: Interrupted.
+11/15 19:23:24.947  You fail to cast Fireball: No target.
+11/15 19:23:25.095  You fail to cast Fireball: No target.
+11/15 19:23:27.549  Your Fireball hits Rockjaw Trogg for 20 Fire damage.
+11/15 19:23:27.577  Rockjaw Trogg is afflicted by Fireball.
+11/15 19:23:28.845  You fail to cast Fireball: Not enough mana.
+11/15 19:23:29.021  Rockjaw Trogg hits you for 1.
+11/15 19:23:29.031  You fail to cast Fireball: Not enough mana.
+11/15 19:23:29.204  You fail to cast Fireball: Not enough mana.
+11/15 19:23:29.204  Your Fireball crits Rockjaw Trogg for 31 Fire damage.
+11/15 19:23:29.230  Rockjaw Trogg is afflicted by Chilled.
+11/15 19:23:29.392  You fail to cast Fireball: Not enough mana.
+11/15 19:23:29.551  Rockjaw Trogg suffers 1 Fire damage from your Fireball.
+11/15 19:23:29.565  You fail to cast Fireball: Not enough mana.
+11/15 19:23:29.727  You fail to cast Fireball: Not enough mana.
+11/15 19:23:31.500  Rockjaw Trogg suffers 1 Fire damage from your Fireball.
+11/15 19:23:31.527  You hit Rockjaw Trogg for 4.
+11/15 19:23:31.527  You have slain Rockjaw Trogg!
+11/15 19:23:31.527  Rockjaw Trogg dies, you gain 50 experience.
+11/15 19:23:33.409  You fail to cast Fireball: Not enough mana.
+11/15 19:23:33.783  You fail to cast Fireball: Not enough mana.
+11/15 19:23:37.960  You fail to cast Fireball: Not enough mana.
+11/15 19:23:38.135  You fail to cast Fireball: Not enough mana.
+11/15 19:23:38.282  You fail to cast Fireball: Not enough mana.
+11/15 19:23:38.334  Your Fireball crits Rockjaw Trogg for 21 Fire damage.
+11/15 19:23:38.374  Rockjaw Trogg is afflicted by Fireball.
+11/15 19:23:38.441  You fail to cast Fireball: Not enough mana.
+11/15 19:23:38.615  You fail to cast Fireball: Not enough mana.
+11/15 19:23:38.775  You fail to cast Fireball: Not enough mana.
+11/15 19:23:40.296  Rockjaw Trogg suffers 1 Fire damage from your Fireball.
+11/15 19:23:40.790  Rockjaw Trogg misses you.
+11/15 19:23:41.725  You fail to cast Fireball: Not enough mana.
+11/15 19:23:41.884  You fail to cast Fireball: Not enough mana.
+11/15 19:23:42.045  You fail to cast Fireball: Not enough mana.
+11/15 19:23:42.130  You hit Rockjaw Trogg for 6.
+11/15 19:23:42.325  Rockjaw Trogg suffers 1 Fire damage from your Fireball.
+11/15 19:23:42.351  Fireball fades from Rockjaw Trogg.
+11/15 19:23:42.831  Rockjaw Trogg hits you for 1.
+11/15 19:23:42.952  Rockjaw Trogg is afflicted by Chilled.
+11/15 19:23:45.198  You hit Rockjaw Trogg for 5.
+11/15 19:23:45.422  Rockjaw Trogg hits you for 1.
+11/15 19:23:48.104  You hit Rockjaw Trogg for 4.
+11/15 19:23:48.117  Rockjaw Trogg hits you for 1.
+11/15 19:23:50.363  Your Fireball was resisted by Rockjaw Trogg.
+11/15 19:23:50.708  Rockjaw Trogg hits you for 1.
+11/15 19:23:53.217  Rockjaw Trogg hits you for 1.
+11/15 19:23:53.416  Your Fireball hits Rockjaw Trogg for 14 Fire damage.
+11/15 19:23:53.429  Rockjaw Trogg is afflicted by Fireball.
+11/15 19:23:55.392  Rockjaw Trogg suffers 1 Fire damage from your Fireball.
+11/15 19:23:55.833  Rockjaw Trogg misses you.
+11/15 19:23:56.594  Your Fireball hits Rockjaw Trogg for 18 Fire damage.
+11/15 19:23:56.594  You have slain Rockjaw Trogg!
+11/15 19:23:56.594  Rockjaw Trogg dies, you gain 50 experience.

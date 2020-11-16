@@ -1,0 +1,227 @@
+11/15 09:04:38.309  Your Sinister Strike hits Ragged Young Wolf for 7.
+11/15 09:04:38.309  You hit Ragged Young Wolf for 5.
+11/15 09:04:38.309  Ragged Young Wolf crits you for 4.
+11/15 09:04:38.320  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:04:38.488  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:04:38.635  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:04:38.808  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:04:38.969  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:04:39.088  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:04:39.413  Your Sinister Strike hits Ragged Young Wolf for 7.
+11/15 09:04:39.437  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:04:39.610  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:04:39.769  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:04:39.943  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:04:39.969  You hit Ragged Young Wolf for 4.
+11/15 09:04:40.130  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:04:40.290  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:04:40.335  Ragged Young Wolf hits you for 2.
+11/15 09:04:40.463  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:04:40.610  You fail to perform Eviscerate: Not enough energy.
+11/15 09:04:40.770  You fail to perform Eviscerate: Not enough energy.
+11/15 09:04:40.930  You fail to perform Eviscerate: Not enough energy.
+11/15 09:04:41.104  You fail to perform Eviscerate: Not enough energy.
+11/15 09:04:41.251  You fail to perform Eviscerate: Not enough energy.
+11/15 09:04:41.411  You fail to perform Eviscerate: Not enough energy.
+11/15 09:04:41.585  You fail to perform Eviscerate: Not enough energy.
+11/15 09:04:41.611  You hit Ragged Young Wolf for 4.
+11/15 09:04:41.758  You fail to perform Eviscerate: Not enough energy.
+11/15 09:04:42.132  Your Eviscerate crits Ragged Young Wolf for 25.
+11/15 09:04:42.132  You have slain Ragged Young Wolf!
+11/15 09:04:42.132  Ragged Young Wolf dies, you gain 54 experience. (+10 exp Rested bonus)
+11/15 09:04:42.265  You fail to perform Eviscerate: That ability requires combo points.
+11/15 09:04:42.425  You fail to perform Eviscerate: That ability requires combo points.
+11/15 09:04:42.585  You fail to perform Eviscerate: That ability requires combo points.
+11/15 09:08:10.173  Your Sinister Strike hits Ragged Young Wolf for 7.
+11/15 09:08:10.173  You hit Ragged Young Wolf for 4.
+11/15 09:08:10.173  Ragged Young Wolf hits you for 2.
+11/15 09:08:10.210  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:10.370  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:10.972  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:11.385  Your Sinister Strike hits Ragged Young Wolf for 7.
+11/15 09:08:11.412  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:11.559  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:11.693  You fail to perform Eviscerate: Not yet recovered.
+11/15 09:08:11.865  You fail to perform Eviscerate: Not yet recovered.
+11/15 09:08:11.907  You hit Ragged Young Wolf for 5.
+11/15 09:08:12.025  You fail to perform Eviscerate: Not yet recovered.
+11/15 09:08:12.173  You fail to perform Eviscerate: Not yet recovered.
+11/15 09:08:12.238  Ragged Young Wolf hits you for 2.
+11/15 09:08:12.332  You fail to perform Eviscerate: Not enough energy.
+11/15 09:08:12.400  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:12.626  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:12.720  You fail to perform Eviscerate: Not enough energy.
+11/15 09:08:12.893  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:12.960  You fail to perform Stoneform: Not yet recovered.
+11/15 09:08:13.014  You fail to perform Eviscerate: Not enough energy.
+11/15 09:08:13.227  You fail to perform Stoneform: Another action is in progress.
+11/15 09:08:13.267  You fail to perform Eviscerate: Another action is in progress.
+11/15 09:08:13.348  Your Sinister Strike hits Ragged Young Wolf for 8.
+11/15 09:08:13.468  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:13.481  You fail to perform Stoneform: Not yet recovered.
+11/15 09:08:13.520  You fail to perform Eviscerate: Not yet recovered.
+11/15 09:08:13.682  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:13.694  You hit Ragged Young Wolf for 5.
+11/15 09:08:13.721  You fail to perform Eviscerate: Not yet recovered.
+11/15 09:08:13.881  You fail to perform Eviscerate: Not yet recovered.
+11/15 09:08:14.029  You fail to perform Eviscerate: Not yet recovered.
+11/15 09:08:14.189  You fail to perform Eviscerate: Not enough energy.
+11/15 09:08:14.255  Ragged Young Wolf hits you for 2.
+11/15 09:08:14.296  You fail to perform Eviscerate: Not enough energy.
+11/15 09:08:15.322  You hit Ragged Young Wolf for 5.
+11/15 09:08:16.269  Ragged Young Wolf hits you for 2.
+11/15 09:08:17.071  You hit Ragged Young Wolf for 4.
+11/15 09:08:17.071  You have slain Ragged Young Wolf!
+11/15 09:08:17.071  Ragged Young Wolf dies, you gain 44 experience.
+11/15 09:08:21.504  You crit Ragged Young Wolf for 10.
+11/15 09:08:21.504  Ragged Young Wolf hits you for 2.
+11/15 09:08:21.718  Your Sinister Strike crits Ragged Young Wolf for 16.
+11/15 09:08:21.837  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:21.997  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:22.172  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:22.331  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:22.503  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:22.664  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:22.864  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:23.038  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:23.171  You hit Ragged Young Wolf for 5.
+11/15 09:08:23.372  Your Sinister Strike hits Ragged Young Wolf for 8.
+11/15 09:08:23.504  Ragged Young Wolf hits you for 2.
+11/15 09:08:23.544  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:23.706  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:23.892  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:24.052  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:24.212  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:24.386  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:24.560  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:24.746  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:24.785  You hit Ragged Young Wolf for 4.
+11/15 09:08:24.907  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:25.108  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:25.281  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:25.440  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:25.628  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:25.641  Ragged Young Wolf hits you for 2.
+11/15 09:08:25.814  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:26.000  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:26.202  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:26.374  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:26.483  You hit Ragged Young Wolf for 5.
+11/15 09:08:26.483  You have slain Ragged Young Wolf!
+11/15 09:08:26.483  Ragged Young Wolf dies, you gain 44 experience.
+11/15 09:08:26.567  You fail to perform Sinister Strike: Out of range.
+11/15 09:08:26.750  You fail to perform Sinister Strike: Out of range.
+11/15 09:08:26.936  You fail to perform Sinister Strike: Out of range.
+11/15 09:08:35.451  You hit Ragged Young Wolf for 4.
+11/15 09:08:35.464  Ragged Young Wolf hits you for 2.
+11/15 09:08:35.918  Your Sinister Strike hits Ragged Young Wolf for 8.
+11/15 09:08:36.078  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:36.239  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:36.399  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:36.560  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:36.906  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:37.108  You hit Ragged Young Wolf for 4.
+11/15 09:08:37.266  Your Sinister Strike hits Ragged Young Wolf for 7.
+11/15 09:08:37.440  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:37.519  Ragged Young Wolf hits you for 2.
+11/15 09:08:37.626  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:37.801  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:37.988  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:38.161  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:38.348  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:38.508  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:38.642  You fail to perform Stoneform: Not yet recovered.
+11/15 09:08:38.801  You fail to perform Stoneform: Not yet recovered.
+11/15 09:08:38.828  You hit Ragged Young Wolf for 5.
+11/15 09:08:38.948  You fail to perform Stoneform: Not yet recovered.
+11/15 09:08:39.082  You fail to perform Stoneform: Not yet recovered.
+11/15 09:08:39.563  Ragged Young Wolf hits you for 2.
+11/15 09:08:39.869  Your Eviscerate hits Ragged Young Wolf for 13.
+11/15 09:08:40.016  You fail to perform Eviscerate: That ability requires combo points.
+11/15 09:08:40.203  You fail to perform Eviscerate: That ability requires combo points.
+11/15 09:08:40.416  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:40.484  You hit Ragged Young Wolf for 4.
+11/15 09:08:40.484  You have slain Ragged Young Wolf!
+11/15 09:08:40.484  Ragged Young Wolf dies, you gain 44 experience.
+11/15 09:08:40.658  You fail to perform Eviscerate: That ability requires combo points.
+11/15 09:08:40.823  You fail to perform Sinister Strike: Out of range.
+11/15 09:08:40.937  You fail to perform Eviscerate: That ability requires combo points.
+11/15 09:08:41.084  You fail to perform Sinister Strike: Out of range.
+11/15 09:08:41.191  You fail to perform Eviscerate: That ability requires combo points.
+11/15 09:08:41.311  You fail to perform Sinister Strike: Out of range.
+11/15 09:08:41.418  You fail to perform Eviscerate: That ability requires combo points.
+11/15 09:08:43.487  You hit Burly Rockjaw Trogg for 5.
+11/15 09:08:43.500  Burly Rockjaw Trogg hits you for 2.
+11/15 09:08:43.688  Your Sinister Strike missed Burly Rockjaw Trogg.
+11/15 09:08:43.834  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:43.994  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:44.168  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:44.341  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:44.742  Your Sinister Strike hits Burly Rockjaw Trogg for 8.
+11/15 09:08:44.862  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:45.035  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:45.102  You hit Burly Rockjaw Trogg for 4.
+11/15 09:08:45.209  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:45.396  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:45.542  Burly Rockjaw Trogg attacks. You dodge.
+11/15 09:08:45.583  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:45.756  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:45.956  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:46.129  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:46.330  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:46.744  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:46.756  You hit Burly Rockjaw Trogg for 4.
+11/15 09:08:46.930  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:47.104  You fail to perform Sinister Strike: Not enough energy.
+11/15 09:08:47.625  Burly Rockjaw Trogg attacks. You dodge.
+11/15 09:08:48.384  You hit Burly Rockjaw Trogg for 5.
+11/15 09:08:49.733  Burly Rockjaw Trogg hits you for 2.
+11/15 09:08:50.027  You hit Burly Rockjaw Trogg for 4.
+11/15 09:08:51.642  You crit Burly Rockjaw Trogg for 10.
+11/15 09:08:51.910  Burly Rockjaw Trogg hits you for 2.
+11/15 09:08:53.297  You hit Burly Rockjaw Trogg for 5.
+11/15 09:08:53.978  Burly Rockjaw Trogg hits you for 2.
+11/15 09:08:54.966  You hit Burly Rockjaw Trogg for 4.
+11/15 09:08:55.726  Your Sinister Strike was dodged by Burly Rockjaw Trogg.
+11/15 09:08:55.807  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:55.980  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:56.142  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:56.194  Burly Rockjaw Trogg hits you for 2.
+11/15 09:08:56.300  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:56.461  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:08:56.689  You hit Burly Rockjaw Trogg for 4.
+11/15 09:08:56.689  You have slain Burly Rockjaw Trogg!
+11/15 09:08:56.689  Burly Rockjaw Trogg dies, you gain 55 experience.
+11/15 09:08:56.796  You fail to perform Sinister Strike: Out of range.
+11/15 09:08:56.928  You fail to perform Sinister Strike: Interrupted.
+11/15 09:08:56.968  You fail to perform Sinister Strike: Out of range.
+11/15 09:09:24.371  You fail to perform Sinister Strike: Out of range.
+11/15 09:09:24.639  You crit Rockjaw Trogg for 8.
+11/15 09:09:24.639  Rockjaw Trogg hits you for 1.
+11/15 09:09:24.878  Your Sinister Strike is parried by Rockjaw Trogg.
+11/15 09:09:25.000  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:09:25.158  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:09:25.319  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:09:25.465  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:09:25.838  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:09:26.146  Your Sinister Strike hits Rockjaw Trogg for 7.
+11/15 09:09:26.280  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:09:26.292  You hit Rockjaw Trogg for 5.
+11/15 09:09:26.439  You fail to perform Sinister Strike: Not yet recovered.
+11/15 09:09:26.687  Rockjaw Trogg hits you for 1.
+11/15 09:09:28.054  You hit Rockjaw Trogg for 5.
+11/15 09:09:28.668  Rockjaw Trogg attacks. You dodge.
+11/15 09:09:29.709  You crit Rockjaw Trogg for 8.
+11/15 09:09:30.723  Rockjaw Trogg attacks. You dodge.
+11/15 09:09:31.337  You hit Rockjaw Trogg for 4.
+11/15 09:09:32.765  Rockjaw Trogg attacks. You dodge.
+11/15 09:09:33.019  You miss Rockjaw Trogg.
+11/15 09:09:34.622  You hit Rockjaw Trogg for 5.
+11/15 09:09:34.821  Rockjaw Trogg hits you for 1.
+11/15 09:09:36.304  You hit Rockjaw Trogg for 5.
+11/15 09:09:37.001  Rockjaw Trogg attacks. You dodge.
+11/15 09:09:37.922  You hit Rockjaw Trogg for 5.
+11/15 09:09:39.121  Rockjaw Trogg hits you for 1.
+11/15 09:09:39.561  You hit Rockjaw Trogg for 4.
+11/15 09:09:39.561  You have slain Rockjaw Trogg!
+11/15 09:09:39.561  Rockjaw Trogg dies, you gain 44 experience.
