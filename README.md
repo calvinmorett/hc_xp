@@ -1,7 +1,7 @@
 ![](https://github.com/calvinmorett/img/blob/main/hcxp.gif)
 
 # 🍿👻 
-Currently: Parses total xp from hc event logs. (Specifically for events: only parses if the xp is gained within a certain time frame)
+Currently: Parses total xp from hc event logs. (Specifically for events: only parses if the xp -in the log file- is gained within a certain time frame)
 
 Future: Parses xp from hc events and publishes values visually in an online leaderboard system, in real time.
 
